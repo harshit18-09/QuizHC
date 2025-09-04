@@ -1,4 +1,3 @@
-/**Creating dataset of questions */
 let readlineSync = require('readline-sync');
 let score = 0;
 let kuler = require('kuler');
